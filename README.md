@@ -1,4 +1,4 @@
-# Analisis de Datos de miembros del Gym
+# Analisis de metricas fisicas de los miembros de un Gimnasio
 
 ## OBJETIVO
 ### Con ayuda de Colab, se analizara una base de datos de los miembros de un Gimnasio, para realizar un modelo que nos ayude a predecir el nivel de experincia de los miembros con ayuda de un modelo predictivo.
