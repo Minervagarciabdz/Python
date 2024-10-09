@@ -16,3 +16,5 @@
 Entre otras.
 
 
+## CONCLUCIONES
+### Se anilizaron y compraron varios modelos predictivos, y como resultado se obtubo que para esta base de datos, el modelo con una mejor precision fue el de regresion lineal.
