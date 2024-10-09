@@ -1,4 +1,4 @@
-# Analisis de metricas fisicas de los miembros de un Gimnasio
+# Análisis de métricas físicas de los miembros de un Gimnasio
 
 ## OBJETIVO
 ### Con ayuda de Colab, se analizara una base de datos de los miembros de un Gimnasio, para realizar un modelo que nos ayude a predecir el nivel de experincia de los miembros con ayuda de un modelo predictivo.
@@ -12,9 +12,8 @@
 - La cantidad de agua que consume
 - Pulsaciones promdeio durante el entramamiento
 - El indice de masca corporal
-
 Entre otras.
 
 
-## CONCLUCIONES
+## CONCLUSIONES
 ### Se anilizaron y compraron varios modelos predictivos, y como resultado se obtubo que para esta base de datos, el modelo con una mejor precision fue el de regresion lineal.
